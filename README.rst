@@ -1,0 +1,37 @@
+=================
+bento-meta-cypher
+=================
+
+
+.. image:: https://img.shields.io/pypi/v/bento_meta_cypher.svg
+        :target: https://pypi.python.org/pypi/bento_meta_cypher
+
+.. image:: https://img.shields.io/travis/bensonml/bento_meta_cypher.svg
+        :target: https://travis-ci.com/bensonml/bento_meta_cypher
+
+.. image:: https://readthedocs.org/projects/bento-meta-cypher/badge/?version=latest
+        :target: https://bento-meta-cypher.readthedocs.io/en/latest/?badge=latest
+        :alt: Documentation Status
+
+
+
+
+Python Boilerplate contains all the boilerplate you need to create a Python package.
+
+
+* Free software: MIT license
+* Documentation: https://bento-meta-cypher.readthedocs.io.
+
+
+Features
+--------
+
+* TODO
+
+Credits
+-------
+
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
+
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
